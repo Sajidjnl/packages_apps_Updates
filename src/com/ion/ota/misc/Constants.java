@@ -33,7 +33,7 @@ public class Constants {
     public static final String CURRENT_DEVICE_NAME = "ro.ion.device";
     public static final String CURRENT_VERSION = "ro.ion.version";
     public static final String CURRENT_BUILD_TYPE = "ro.ion.build_type";
-    public static final String OTA_URL = "https://raw.githubusercontent.com/ion-OS/OTA/pie/%s";
+    public static final String OTA_URL = "https://raw.githubusercontent.com/Sajidjnl/OTA/pie/%s";
     // Expressions
     public static final String FILENAME_DATE_FORMAT = "yyyyMMdd-Hm";
     public static final String PATTERN_FILENAME_DATE_FORMAT = "(\\d{4}\\d{2}\\d{2}-\\d{2}\\d{2})";
